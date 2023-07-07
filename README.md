@@ -10,3 +10,5 @@ The main goals of Firma are:
 
 * To provide a single, easy to use package for all spatial raster and vector data science tasks.
 * Maximal file format support, including GeoTIFF, NetCDF, HDF, GRIB, and more.
+* Minimal barrier to entry for users transferring from R Terra.
+* To be as fast as possible and parallelize as much as possible.
