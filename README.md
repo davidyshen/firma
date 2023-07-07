@@ -1,8 +1,14 @@
-# Firma
+# Firma 🌍
 
-A Python equivalent of the R Terra package for spatial data science, with a focus on raster data. Firma is a work in progress, and is not yet ready for use.
+A Python equivalent of the R Terra package for spatial data science, for both raster and vector data.
 
-As a R native, I have found that working with spatial data in Python is very fragmented and tedious, compared to the ease of use of the Terra package in R, which can do almost anything with spatial data. I have therefore decided to create a Python equivalent of the Terra package, which I have named Firma (because Terra Firma).
+⚙️ **Firma is a work in progress, and is not yet ready for use.** ⚒️
+
+## Why
+
+As an R native, I have found that working with spatial data in Python is very fragmented and tedious, involving lots of packages for different file types. Compare this to [R Terra](https://github.com/rspatial/terra), which can handle almost any geospatial file format for both vector and raster data, enabling you to do almost anything with your data.
+
+I have therefore decided to create a Python equivalent of the Terra package, which I have named Firma (because Terra Firma haha).
 
 ## Firma Goals
 
